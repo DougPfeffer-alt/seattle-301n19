@@ -101,6 +101,8 @@ let objectLit = () => ({
 // TODO: Uncomment the following line of code to see the output in the browser console
 
 console.log(objectLit());
+
+
 let sumAndProduct = (a, b) => {
   let sum = a + b;
   let product = a * b;
